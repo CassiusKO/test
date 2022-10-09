@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow:ital,wght@1,500&display=swap');
+
+
+body { 
+    font-family: "Barlow", sans-serif;
+    line-height: 1.7;
+    color: #516171;
+
+}
+
+h1,h2,h3,h4,h5,h6 {
+    font-weight: 700 !important;
+}
+
+a{
+    color: darkblue;
+}
+
+img{
+    width: 100%;
+}
+
+/*.background {
+    
+    background-color : red;
+    opacity: 50%;
+    border: 200px ;
+}*/
+
+/*NAVBAR*/
+.top-nav {
+    background-color: lavenderblush;
+    
+}
+
+.top-nav p{
+    margin-bottom: 0;
+    display: inline-block;
+    margin-right: 16px;
+    color: black;
+
+}
+
+.top-nav i,
+.top-nav span {
+    text-align: center;
+}
